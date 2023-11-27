@@ -4,8 +4,6 @@ I'm Léna ! I'm Student @ 42 Paris and I am currently looking for a position as 
 
 #### 🌱 Technical skills:
 
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -27,8 +25,8 @@ I'm Léna ! I'm Student @ 42 Paris and I am currently looking for a position as 
 
 #### 📫 How to reach me:
 
-	- mail: ln.melard@gmail.com
-
+- Mail : ln.melard@gmail.com
+- Linkedin: www.linkedin.com/in/lena-melard/
 <!--
 **lmelard/lmelard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
