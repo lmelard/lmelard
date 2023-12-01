@@ -25,8 +25,8 @@ I'm Léna ! I'm Student @ 42 Paris and I am currently looking for a position as 
 
 #### 📫 How to reach me:
 
-- Mail : ln.melard@gmail.com
-- Linkedin: www.linkedin.com/in/lena-melard/
+- [Mail](ln.melard@gmail.com)
+- [LinkedIn](www.linkedin.com/in/lena-melard/)
 <!--
 **lmelard/lmelard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
