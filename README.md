@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Léna ! I'm Student @ 42 Paris and a Software Engineer Intern @Doctolib.
+I'm Léna ! I'm a student @ 42 Paris and a Software Engineer Intern @Doctolib.
 
 #### 🌱 Technical skills:
 
