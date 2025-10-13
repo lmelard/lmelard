@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Léna ! I'm a student @42 Paris and a Software Engineer @Doctolib.
+I'm Léna ! I'm a Software Engineer I @Doctolib.
 
 #### 📫 How to reach me:
 
