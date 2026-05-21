@@ -4,7 +4,6 @@ I'm Léna ! I'm a Software Engineer I @Doctolib.
 
 #### 📫 How to reach me:
 
-- [Mail](ln.melard@gmail.com)
 - [LinkedIn](www.linkedin.com/in/lena-melard/)
 <!--
 **lmelard/lmelard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
